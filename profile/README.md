@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="avatar.png" width="160" height="160" alt="JaMkAAaa — Flowcut">
+</p>
+
 # JaMkAAaa
 
-Studio software z Polski. Budujemy produkty dla konkretnych branż, nie ogólne „narzędzia do wszystkiego”.
+Studio software z Polski. Budujemy produkty dla konkretnych branż, nie ogólne „narzędzia do wszystkiego”. Znak: **Flowcut** (D z wyciętym F), limonka `#D3F66A` na `#101214`.
 
 ## Produkty
 
